@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinamikAracOluşturma", "DinamikAracOluşturma\DinamikAracOluşturma.csproj", "{2AF62A1C-C750-4311-97E5-26E5EC5E9386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF62A1C-C750-4311-97E5-26E5EC5E9386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF62A1C-C750-4311-97E5-26E5EC5E9386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF62A1C-C750-4311-97E5-26E5EC5E9386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF62A1C-C750-4311-97E5-26E5EC5E9386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58A81B04-03C2-40D1-BC00-07D06E0BC063}
+	EndGlobalSection
+EndGlobal
